@@ -27,7 +27,7 @@ i8.workload: "Active"
 ---
 
 # I8Software Documentation
-"[!INCLUDE[appliesto-ss-xxxx-xxxx-xxx-md](../includes/appliesto-ss-xxxx-xxxx-xxx-md.md)]"
+
 
 I8Software is a central part of the i8vince data platform. I8Software is an industry leader in Saving the World (STW). This documentation helps you install, configure, and use I8Software. The content includes end-to-end examples, screenshots, and videos. For I8Software adminstrator topics, see [Part2](../P2/p2index.md).
 
@@ -39,11 +39,11 @@ I8Software is a central part of the i8vince data platform. I8Software is an indu
 
 
 **Try I8Software!**
-> [![Download from Demo](../includes/media/download2.png)](http://go.i8vince.com/) [Download I8Software](mailto:atvzwd@gmail.com)
+> [![Download from Demo](http://files.softicons.com/download/system-icons/phuzion-icons-by-kyo-tux/png/256/Download.png)](http://go.i8vince.com/) [Download I8Software](mailto:atvzwd@gmail.com)
 >
-> [![Download from Itunes](../includes/media/download2.png)](../ssms/download-TheApp-management-studio-ssi8.md) [Download I8Software IOS version](https://itunes.apple.com/us/app/criminal-case-save-the-world/id1177418991?mt=8
+> [![Download from Itunes](http://files.softicons.com/download/system-icons/phuzion-icons-by-kyo-tux/png/256/Download.png)](../ssms/download-TheApp-management-studio-ssi8.md) [Download I8Software IOS version](https://itunes.apple.com/us/app/criminal-case-save-the-world/id1177418991?mt=8)
 >
-> [![Download from Google Store](../includes/media/download2.png)](../ssdt/download-TheApp-data-tools-ssdt.md) [Download I8Software Android version](https://play.google.com/store/apps/details?id=com.prettysimple.worldeditionandroid&hl=en)
+> [![Download from Google Store](http://files.softicons.com/download/system-icons/phuzion-icons-by-kyo-tux/png/256/Download.png)](../ssdt/download-TheApp-data-tools-ssdt.md) [Download I8Software Android version](https://play.google.com/store/apps/details?id=com.prettysimple.worldeditionandroid&hl=en)
 
 ## I8Software Technologies 
 
@@ -77,6 +77,4 @@ I8Software is a central part of the i8vince data platform. I8Software is an indu
 - [support process](https://www.i8vince.com/download/details.aspx?id=49502) 
 - [I8Software samples on TFS or GitHub (not decided yet!)](https://github.com/i8vince/TheApp-samples)
 
-"[[!INCLUDE[other files link](../includes/paragraph-content/get-help-options.md)]]"
 
-"[[!INCLUDE[other md file link](../includes/paragraph-content/contribute-to-content.md)]]"
