@@ -39,11 +39,11 @@ I8Software is a central part of the i8vince data platform. I8Software is an indu
 
 
 **Try I8Software!**
-> [![Download from Demo](http://files.softicons.com/download/system-icons/phuzion-icons-by-kyo-tux/png/256/Download.png)](http://go.i8vince.com/) [Download I8Software](mailto:atvzwd@gmail.com)
+> [![Download from Demo](https://static-cdn.jtvnw.net/jtv_user_pictures/emoticon-33035-src-a470db49ff5f624f-28x28.png)](http://go.i8vince.com/) [Download I8Software](mailto:atvzwd@gmail.com)
 >
-> [![Download from Itunes](http://files.softicons.com/download/system-icons/phuzion-icons-by-kyo-tux/png/256/Download.png)](../ssms/download-TheApp-management-studio-ssi8.md) [Download I8Software IOS version](https://itunes.apple.com/us/app/criminal-case-save-the-world/id1177418991?mt=8)
+> [![Download from Itunes](https://static-cdn.jtvnw.net/jtv_user_pictures/emoticon-33035-src-a470db49ff5f624f-28x28.png)](../ssms/download-TheApp-management-studio-ssi8.md) [Download I8Software IOS version](https://itunes.apple.com/us/app/criminal-case-save-the-world/id1177418991?mt=8)
 >
-> [![Download from Google Store](http://files.softicons.com/download/system-icons/phuzion-icons-by-kyo-tux/png/256/Download.png)](../ssdt/download-TheApp-data-tools-ssdt.md) [Download I8Software Android version](https://play.google.com/store/apps/details?id=com.prettysimple.worldeditionandroid&hl=en)
+> [![Download from Google Store](https://static-cdn.jtvnw.net/jtv_user_pictures/emoticon-33035-src-a470db49ff5f624f-28x28.png)](../ssdt/download-TheApp-data-tools-ssdt.md) [Download I8Software Android version](https://play.google.com/store/apps/details?id=com.prettysimple.worldeditionandroid&hl=en)
 
 ## I8Software Technologies 
 
