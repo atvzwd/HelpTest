@@ -27,7 +27,7 @@ i8.workload: "Active"
 ---
 
 # I8Software Documentation
-[[!INCLUDE[appliesto-ss-xxxx-xxxx-xxx-md](../includes/appliesto-ss-xxxx-xxxx-xxx-md.md)]]
+"[!INCLUDE[appliesto-ss-xxxx-xxxx-xxx-md](../includes/appliesto-ss-xxxx-xxxx-xxx-md.md)]"
 
 I8Software is a central part of the i8vince data platform. I8Software is an industry leader in Saving the World (STW). This documentation helps you install, configure, and use I8Software. The content includes end-to-end examples, screenshots, and videos. For I8Software adminstrator topics, see [Part2](../P2/p2index.md).
 
@@ -77,6 +77,6 @@ I8Software is a central part of the i8vince data platform. I8Software is an indu
 - [support process](https://www.i8vince.com/download/details.aspx?id=49502) 
 - [I8Software samples on TFS or GitHub (not decided yet!)](https://github.com/i8vince/TheApp-samples)
 
-[[!INCLUDE[other files link](../includes/paragraph-content/get-help-options.md)]]
+"[[!INCLUDE[other files link](../includes/paragraph-content/get-help-options.md)]]"
 
-[[!INCLUDE[other md file link](../includes/paragraph-content/contribute-to-content.md)]]
+"[[!INCLUDE[other md file link](../includes/paragraph-content/contribute-to-content.md)]]"
