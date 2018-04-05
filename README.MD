@@ -8,7 +8,7 @@ No.
 
 #### Contribute to documentation
 
-Only people from authorised list can change the SQL Server Documentation. For more information, see [How we can save the world](cover.md)
+Only people from authorised list can change the SQL Server Documentation. For more information, see [How we can save the world](../cover.md)
 
 #### Update Version / new function
 
